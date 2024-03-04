@@ -20,7 +20,7 @@ def steps():
     print('2. Go to slate.sheridancollege.ca')
     print('3. Login with your sheridan email')
     print('4. Click on PROG1004')
-input('Press Enter to Display Steps: ')  # could have left input() without parameters this 'Pauses' the program
+input('Press Enter to Display Steps: ')  # could have left input() without parameters this 'Pauses' the `program
 steps()
 
 print('\n')
