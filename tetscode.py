@@ -31,4 +31,3 @@ def comission():
     print(total_comission)
 comission()
 '''
-#this is a test
